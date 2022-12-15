@@ -1,0 +1,56 @@
+[gd_scene load_steps=2 format=3 uid="uid://dte5mlgmsxo58"]
+
+[ext_resource type="PackedScene" uid="uid://cm5atle0yvoso" path="res://adventure-trip-experience.glb" id="1_fxge6"]
+
+[node name="adventure-trip-experience" instance=ExtResource("1_fxge6")]
+
+[node name="corner +" parent="." index="0"]
+visible = false
+
+[node name="corner L" parent="." index="1"]
+visible = false
+
+[node name="corner T" parent="." index="2"]
+visible = false
+
+[node name="door 2" parent="." index="3"]
+visible = false
+
+[node name="door 3" parent="." index="4"]
+visible = false
+
+[node name="door 4" parent="." index="5"]
+visible = false
+
+[node name="floor 25x25" parent="." index="6"]
+visible = false
+
+[node name="floor 5x25" parent="." index="7"]
+visible = false
+
+[node name="floor 5x5" parent="." index="8"]
+visible = false
+
+[node name="floor 10x25" parent="." index="9"]
+visible = false
+
+[node name="floor 10x5" parent="." index="10"]
+visible = false
+
+[node name="floor 10x10" parent="." index="11"]
+visible = false
+
+[node name="wall 1" parent="." index="12"]
+visible = false
+
+[node name="wall 35" parent="." index="13"]
+visible = false
+
+[node name="wall 6" parent="." index="14"]
+visible = false
+
+[node name="wall 85" parent="." index="15"]
+visible = false
+
+[node name="map001" parent="." index="16"]
+visible = false
